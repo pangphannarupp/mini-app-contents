@@ -1,0 +1,38 @@
+[
+  {
+    "userId": "admin",
+    "password": "password123",
+    "userName": "System Administrator",
+    "role": "Super Admin",
+    "email": "admin@superapp.com",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&h=200&fit=crop&crop=faces",
+    "department": "IT Operations & Security"
+  },
+  {
+    "userId": "phanna",
+    "password": "password123",
+    "userName": "Phanna Pang",
+    "role": "Lead Architect",
+    "email": "phanna@superapp.com",
+    "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&h=200&fit=crop&crop=faces",
+    "department": "Core Engineering"
+  },
+  {
+    "userId": "reader01",
+    "password": "password123",
+    "userName": "Sophea Chan",
+    "role": "Premium Reader",
+    "email": "sophea@bookreader.app",
+    "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop&crop=faces",
+    "department": "Digital Library"
+  },
+  {
+    "userId": "partner_dev",
+    "password": "password123",
+    "userName": "Bona Sok",
+    "role": "Mini App Developer",
+    "email": "bona.dev@partner.com",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=faces",
+    "department": "Partner Ecosystem"
+  }
+]

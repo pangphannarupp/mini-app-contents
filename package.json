@@ -1,0 +1,22 @@
+{
+  "name": "mini-app-contents-server",
+  "version": "1.0.0",
+  "description": "Authentication and Mini App Catalog Server for MCNC Super App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "superapp",
+    "miniapp",
+    "auth",
+    "server"
+  ],
+  "author": "MCNC",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
