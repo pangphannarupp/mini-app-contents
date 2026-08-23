@@ -1,5 +1,24 @@
 [
   {
+    "appId": "game_abc",
+    "title": "Game ABC",
+    "description": "Play game abc",
+    "entryPointClass": "kh.mcnc.core.miniapp.miniapp.web.AppWebEntry",
+    "contentUrl": "https://raw.githubusercontent.com/pangphannarupp/mini-app-contents/main/content/contents_game_abc.zip",
+    "iconId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCyTqKZrQ4BByT8hhheMrp_hMDZYa-HIEoWkydIsHyA&s",
+    "appColor": "#FFFFFF",
+    "publicUrl": "",
+    "noAppBar": true,
+    "section": "discover",
+    "categoryId": "cat_sample",
+    "categoryName": "Sample",
+    "bannerId": "https://picsum.photos/400/200",
+    "contentVersion": 1,
+    "integrationMethod": "web_content",
+    "termVersion": 1,
+    "term": "By using this mini app, you agree to our Terms of Service and Privacy Policy. Please read them carefully before proceeding."
+  },
+  {
     "appId": "app_native",
     "title": "Cinema Ticket",
     "description": "Book movies easily",
