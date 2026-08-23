@@ -4,7 +4,7 @@
     "title": "Game ABC",
     "description": "Play game abc",
     "entryPointClass": "kh.mcnc.core.miniapp.miniapp.web.AppWebEntry",
-    "contentUrl": "https://raw.githubusercontent.com/pangphannarupp/mini-app-contents/main/content/contents_game_abc.zip",
+    "contentUrl": "https://raw.githubusercontent.com/pangphannarupp/mini-app-contents/refs/heads/main/content/contents_game_abc_1.zip",
     "iconId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCyTqKZrQ4BByT8hhheMrp_hMDZYa-HIEoWkydIsHyA&s",
     "appColor": "#FFFFFF",
     "publicUrl": "",
